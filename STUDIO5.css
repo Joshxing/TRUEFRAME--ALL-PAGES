@@ -1,0 +1,572 @@
+.studio-5-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1441px;
+  height: 999px;
+}
+.group-child42,
+.studio-5-item {
+  position: absolute;
+  top: 75px;
+  left: 753px;
+  background-color: var(--color-gainsboro-100);
+  width: 67px;
+  height: 1px;
+}
+.group-child42 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 121px;
+}
+.about-us14,
+.services13,
+.studio12 {
+  position: absolute;
+  top: 0;
+  left: 165px;
+}
+.about-us14,
+.studio12 {
+  left: 380px;
+}
+.about-us14 {
+  left: 571px;
+  cursor: pointer;
+}
+.info-parent9 {
+  position: absolute;
+  top: 14px;
+  left: 290px;
+  width: 657px;
+  height: 18px;
+}
+.contact-us7 {
+  position: absolute;
+  top: 14px;
+  left: 22px;
+}
+.group-child43 {
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.asset-2-17,
+.contact-us-parent5,
+.group-child43,
+.group-wrapper6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 157px;
+  height: 47px;
+}
+.asset-2-17,
+.group-wrapper6 {
+  left: 1099px;
+}
+.asset-2-17 {
+  top: 3px;
+  left: 0;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.group-parent19 {
+  position: absolute;
+  top: 34px;
+  left: 85px;
+  width: 1256px;
+  height: 49px;
+}
+.homepage-bg-1-210,
+.rectangle-parent29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 121px;
+}
+.homepage-bg-1-210 {
+  height: 3126px;
+  object-fit: cover;
+}
+.image-14-icon {
+  position: absolute;
+  top: 499px;
+  left: calc(50% - 418px);
+  width: 838px;
+  height: 2390px;
+  object-fit: cover;
+}
+.homepage-bg-1-2-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 3126px;
+}
+.events-exhibition {
+  position: absolute;
+  top: 370px;
+  left: calc(50% - 204px);
+}
+.frame-parent32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 3126px;
+  font-size: var(--font-size-21xl);
+}
+.instance-child2 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 1446px;
+  height: 742px;
+  z-index: 0;
+}
+.full-logo-35 {
+  position: relative;
+  width: 209px;
+  height: 30px;
+  object-fit: cover;
+  z-index: 0;
+}
+.about-us15,
+.info13,
+.services14,
+.studio13 {
+  position: relative;
+  display: inline-block;
+  width: 64.4px;
+}
+.about-us15,
+.services14,
+.studio13 {
+  width: 127.8px;
+}
+.about-us15,
+.studio13 {
+  width: 100.6px;
+}
+.about-us15 {
+  width: 84.3px;
+}
+.frame-wrapper16,
+.info-parent10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.info-parent10 {
+  flex-direction: column;
+  gap: var(--gap-50xl);
+}
+.frame-wrapper16 {
+  flex-direction: row;
+  z-index: 0;
+}
+.book-a-call6,
+.sign-up5 {
+  position: relative;
+  display: inline-block;
+  width: 109.7px;
+}
+.book-a-call6 {
+  width: 178.1px;
+}
+.div5 {
+  position: absolute;
+  top: 1px;
+  left: 24px;
+}
+.akar-iconsphone4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.parent3 {
+  position: relative;
+  width: 133px;
+  height: 20px;
+}
+.hellotrueframemediagmailcom4 {
+  position: absolute;
+  top: 1px;
+  left: 28px;
+}
+.carbonemail-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 21px;
+  height: 21px;
+}
+.hellotrueframemediagmailcom-parent2 {
+  position: relative;
+  width: 277px;
+  height: 21px;
+}
+.zone-5-brgy4 {
+  margin: 0;
+}
+.zone-5-brgy-container4 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+.basillocation-outline-icon4 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.zone-5-brgy-san-joaquin-palo-parent2 {
+  position: relative;
+  width: 263px;
+  height: 36px;
+}
+.group-parent20 {
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.frame-parent36,
+.frame-parent37,
+.frame-wrapper17,
+.group-parent20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper17 {
+  flex-direction: column;
+  color: var(--gray-4);
+}
+.frame-parent36,
+.frame-parent37 {
+  flex-direction: row;
+}
+.frame-parent37 {
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 281px;
+  gap: var(--gap-73xl);
+  z-index: 1;
+}
+.frame-parent36 {
+  position: relative;
+  gap: var(--gap-3xs);
+  z-index: 0;
+}
+.vector-icon5 {
+  position: relative;
+  width: 23px;
+  height: 21.4px;
+}
+.akar-iconsinstagram-fill4 {
+  position: relative;
+  width: 24px;
+  height: 22.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent35,
+.full-logo-3-parent2,
+.vector-parent5 {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-parent5 {
+  margin: 0 !important;
+  top: 274px;
+  left: 717px;
+  flex-direction: row;
+  gap: var(--gap-smi);
+  z-index: 1;
+}
+.frame-parent35,
+.full-logo-3-parent2 {
+  gap: var(--gap-3xs);
+}
+.frame-parent35 {
+  margin: 0 !important;
+  top: 49px;
+  left: 393px;
+  flex-direction: row;
+  z-index: 1;
+}
+.full-logo-3-parent2 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+}
+.frame-child27 {
+  position: absolute;
+  top: 405.5px;
+  left: -0.5px;
+  width: 1184.9px;
+  height: 1px;
+  object-fit: cover;
+}
+.frame-parent34 {
+  position: relative;
+  width: 1183.9px;
+  height: 406px;
+}
+.all-rights-reserved5 {
+  position: relative;
+  display: inline-block;
+  width: 345px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.group-child44 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 0.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 9.1px;
+  height: 9px;
+}
+.c5,
+.ellipse-parent3 {
+  position: absolute;
+  top: 0;
+}
+.c5 {
+  left: 1px;
+  display: inline-block;
+  width: 7px;
+}
+.ellipse-parent3 {
+  margin: 0 !important;
+  left: 345px;
+  width: 9.1px;
+  height: 12px;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+}
+.all-rights-reserved-by-truefra-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper18 {
+  position: relative;
+  width: 345px;
+  height: 18px;
+  text-align: center;
+}
+.frame-parent33,
+.rectangle-parent30 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent33 {
+  margin: 0 !important;
+  top: 158px;
+  left: 80px;
+  width: 1263px;
+  align-items: center;
+  gap: var(--gap-100xl);
+  z-index: 1;
+}
+.rectangle-parent30 {
+  bottom: 0;
+  left: calc(50% - 723px);
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+}
+.navigation-bar-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1448px;
+  height: 132px;
+  object-fit: cover;
+}
+.homepage-bg-1-211 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 121px;
+  object-fit: cover;
+}
+.frame-wrapper19 {
+  position: absolute;
+  top: 14px;
+  left: 290px;
+  width: 658px;
+  height: 18px;
+}
+.info14 {
+  position: relative;
+}
+.info-parent11 {
+  position: absolute;
+  top: 48px;
+  left: 375px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-84xl);
+}
+.navigation-bar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 118px;
+  overflow: hidden;
+}
+.headline-copy-29 {
+  position: absolute;
+  top: 3171px;
+  left: 185px;
+  font-size: var(--h2-size);
+  line-height: 48px;
+  display: flex;
+  font-family: var(--h2);
+  color: var(--title-color);
+  align-items: center;
+  width: 360px;
+}
+.young-woman-using-phone-while-icon {
+  position: absolute;
+  top: 3287px;
+  left: 186px;
+  border-radius: var(--br-9xs);
+  width: 552px;
+  height: 368px;
+  object-fit: cover;
+}
+.the-nft-connoisseurs,
+.the-nft-connoisseurs-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.the-nft-connoisseurs-wrapper {
+  width: 181px;
+  height: 18px;
+}
+.group-child48,
+.group-parent22 {
+  position: absolute;
+  top: 2.3px;
+  left: 195.3px;
+  width: 31.5px;
+  height: 16.5px;
+}
+.group-parent22 {
+  top: 3690px;
+  left: 762px;
+  width: 226px;
+  height: 18px;
+  color: var(--color-blue);
+}
+.events-exhibition-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 153px;
+  height: 18px;
+}
+.group-child49,
+.group-parent23 {
+  position: absolute;
+  top: 2.3px;
+  left: 168.3px;
+  width: 31.5px;
+  height: 16.5px;
+}
+.group-parent23 {
+  top: 3690px;
+  left: 185px;
+  width: 199px;
+  height: 18px;
+  color: var(--color-blue);
+}
+.image-10-icon,
+.tikvah-lake-recovery-45-2 {
+  position: absolute;
+  top: 3287px;
+  object-fit: cover;
+}
+.tikvah-lake-recovery-45-2 {
+  left: 762px;
+  border-radius: var(--br-9xs);
+  width: 551px;
+  height: 368px;
+}
+.image-10-icon {
+  left: 185px;
+  width: 563px;
+  height: 383px;
+}
+.frame-child28 {
+  position: relative;
+  width: 172.5px;
+  height: 0.5px;
+}
+.studio-5-inner,
+.the-nft-connoisseurs-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.the-nft-connoisseurs-parent {
+  align-items: flex-end;
+  gap: var(--gap-10xs);
+}
+.studio-5-inner {
+  position: absolute;
+  top: 3562px;
+  left: 1006px;
+  align-items: center;
+  text-align: justify;
+}
+.image-6-icon1 {
+  position: absolute;
+  top: 3287px;
+  left: 762px;
+  width: 551px;
+  height: 368px;
+  object-fit: cover;
+}
+.studio-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4495px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-moderat);
+}
